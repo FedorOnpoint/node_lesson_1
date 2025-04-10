@@ -1,4 +1,13 @@
 {
+  "name": "node_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "bin": {
+    "kek": "bin/index.js"
+  },
   "dependencies": {
     "yargs": "^17.7.2"
   }
